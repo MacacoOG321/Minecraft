@@ -1,284 +1,979 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719629261528 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719888624463 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629264597 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888627518 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629267638 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888630581 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629270707 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888633672 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629273769 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888636742 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629276837 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888639792 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629279879 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888642827 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629282917 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888645873 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629285974 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888648981 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629289023 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888652018 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629292091 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888655092 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629295143 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888658139 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629298189 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888661176 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629301223 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888664222 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629304283 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888667283 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629307331 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888670333 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629310431 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888673387 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629313474 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888676481 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629316515 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888679520 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629319547 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888682562 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629322598 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888685616 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629325669 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888688686 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629328699 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888691732 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629331732 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888694784 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629334790 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888697885 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629337828 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888700943 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629340887 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888704007 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629344004 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888707058 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629347072 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888710103 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629350137 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888713196 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629353174 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888716258 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629356235 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888719309 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629359274 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888722432 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629362304 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888725478 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629365363 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888728558 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629368401 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888731647 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629371455 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888734707 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629374491 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888737755 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629377572 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888740804 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629380625 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888743896 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629383697 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888746984 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629386751 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888750098 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629389810 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888753174 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629392859 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888756250 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629395917 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888759328 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629399020 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888762397 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629402248 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888765444 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629405312 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888768525 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629408349 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888771629 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629411406 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888774689 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629414483 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888777737 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629417517 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888780859 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629420568 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888783907 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629423601 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888786951 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629426645 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888790017 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629429694 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888793056 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719629432739 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719888796091 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888799186 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888802248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888805314 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888808393 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888811440 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888814500 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888817547 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888820667 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888823705 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888826755 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888829800 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888832865 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888835919 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888838977 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888842137 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888845223 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888848322 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888851381 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888854441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888857486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888860553 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888863623 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888866674 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888869825 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888872871 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888875956 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888878987 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888882027 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888885086 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888888133 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888891235 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888894281 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888897328 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888900404 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888903450 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888906493 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888909550 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888912629 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888915716 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888918761 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888921822 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888924881 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888927920 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888930989 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888934049 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888937122 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888940189 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888943249 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888946308 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888949381 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888952438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888955499 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888958544 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888961616 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888964707 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888967756 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888970804 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888973857 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888976904 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888979934 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888982985 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888986032 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888989084 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888992122 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888995177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719888998259 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889001315 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889004376 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889007497 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889010549 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889013592 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889016635 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889019691 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889022736 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889025771 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889028848 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889031905 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889034957 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889037989 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889041042 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889044100 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889047156 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889050322 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889053419 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889056462 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889059575 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889062611 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889065644 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889068710 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889071791 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889074851 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889077909 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889080949 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889084092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889087140 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889090188 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889093231 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889096282 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889099332 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889102437 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889105495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889108540 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889111579 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889114609 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889117668 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889120760 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889123851 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889126916 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889130009 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889133068 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889136145 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889139202 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889142235 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889145306 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889148368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889151407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889154451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889157503 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889160561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889163606 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889166642 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889169691 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889172767 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889175826 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889178864 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889181900 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889184954 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889187997 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889191122 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889194186 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889197222 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889200267 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889203373 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889206420 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889209486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889212591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889215724 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889218768 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+debt-dancing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719889221866 tunnel running, 1 tunnels registered
 
 
 TUNNELS
